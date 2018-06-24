@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://pre00.deviantart.net/32fb/th/pre/f/2011/110/1/6/star_background_template_by_huntere15-d3ehi4b.png);
+}
+h1 {
+  color: #ffbf00;
+  font-family: "Arial", "Bookman Old Style";
+  text-align: center;
+}
+
+h4 {
+  color: #ffbf00;
+  font-family: "Arial", "Bookman Old Style";
+  text-align: center;
+  font-size: 12px;
+}
+
+h2 {
+  color: white;
+  font-family: "Courier New";
+  text-decoration: underline;
+  font-style: normal;
+  text-align: left;
+}
+p {
+  color: white;
+  font-family: "Courier New", "Serif", "Times";
+  text-transform: uppercase;
+  font-style: normal;
+  text-align: left;
+}
+img {
+  margin: 26px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin-left: 450px;
+  font-size: 15px;
+}
+iframe {
+  display: block;
+  margin: 20px;
+}
+
+a {
+  font-family: "Courier New", "Serif", "Times";
+  color: #ffbf00;
+  font-style: normal;
+}
+iframe {
+  float: right;
+  position: relative;
+  top: -150px;
+}
